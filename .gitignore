@@ -1,0 +1,11 @@
+#.gitignore
+#para el video juego "Snake" con interfaz emulada desde la shell de linux
+#
+#Autor: SamuelGCode
+#correo:samale456@gmail.com
+
+#juego compilado
+snake
+
+#archivos objetos
+build/*.[oa]
